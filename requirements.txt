@@ -1,7 +1,7 @@
 fastapi==0.115.0
 uvicorn[standard]==0.30.6
-tensorflow
-numpy
+tensorflow-cpu==2.15.0
+numpy==1.26.4
 matplotlib
 opencv-python
 scikit-learn

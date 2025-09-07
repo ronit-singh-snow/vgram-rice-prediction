@@ -1,0 +1,40 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Python debugging files
+*.pdb
+
+# Ignore Python logs
+*.log
+
+# Ignore virtual environment directories
+venv/
+env/
+virtualenv/
+rice-prediction-env/
+
+# Ignore Appwrite configuration files
+appwrite.json
+
+# Ignore Render configuration files
+# render.yaml
+
+# Ignore requirements.txt
+# requirements.txt
+
+# Ignore .idea directory
+.idea/
+
+# Ignore .vscode directory
+.vscode/
+
+# Ignore .git directory
+.git/
+
+# Ignore __pycache__ directory
+__pycache__/
+
+# Ignore .env file
+.env
