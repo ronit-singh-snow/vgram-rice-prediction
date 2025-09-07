@@ -5,3 +5,4 @@ numpy
 matplotlib
 opencv-python
 scikit-learn
+python-multipart==0.0.9
