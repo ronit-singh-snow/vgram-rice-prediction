@@ -10,3 +10,7 @@ services:
         value: 3.10
       - key: TF_CPP_MIN_LOG_LEVEL
         value: "2"
+      - Key: TF_FORCE_GPU_ALLOW_GROWTH
+        value: "false"
+      - Key: CUDA_VISIBLE_DEVICES
+        value: "-1"
